@@ -1,5 +1,10 @@
 # Drake's First CS193 Homework
 
+What I like about CS 193
+- The questions at the beginning of class
+- Learning how to use various tools like Git and Github that will aid me in my CS career
+- The nice and helpful TA's
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
